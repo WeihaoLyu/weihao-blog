@@ -1,3 +1,4 @@
+baseURL = 'https://weihaolyu.github.io/weihao-blog/'
 copyright = "© Your Name"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
