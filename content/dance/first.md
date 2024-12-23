@@ -4,3 +4,8 @@ draft = false
 title = 'First'
 +++
 Merry Christmas hjvdsjfaiovjdhoivhdiobvhdfuihbvdiurhviduhvdsvd
+
+params:
+  featured_image: IMG_4657.JPG
+
+---
